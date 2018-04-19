@@ -1,0 +1,28 @@
+.bg-color{
+  background-color: lightgreen;
+  border-radius: 2%
+  display: inline-block;
+  margin-left: 1.2em;
+  width: 81.2em;
+}
+
+.pills a{
+  color: purple;
+}
+
+.j-btn{
+  color: purple;
+  background-color: lightgreen;
+}
+.jumbotron{
+  background-image: url("../img/jumbotron.jpg");
+  background-size:cover;
+  color: purple;
+  height: 50em;
+}
+.carousel-caption{
+  font-family: "Lato";
+  font-size: 2em;
+  letter-spacing: 2px;
+  font-weight: 400;
+}
